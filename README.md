@@ -216,7 +216,7 @@ python manage.py createsuperuser
 ---
 
 
-<img width="1600" height="760" alt="WhatsApp Image 2026-05-05 at 3 48 56 PM" src="https://github.com/user-attachments/assets/217ef8f9-e4d9-4f8f-81e0-32c208b4f427" />
+
 
 
 
@@ -226,7 +226,7 @@ python manage.py createsuperuser
 <img width="1600" height="740" alt="WhatsApp Image 2026-05-05 at 3 49 19 PM" src="https://github.com/user-attachments/assets/3dcc41b1-531e-4e7e-8345-fbdfe29d3ffb" />
 
 
-
+<img width="1600" height="760" alt="WhatsApp Image 2026-05-05 at 3 48 56 PM" src="https://github.com/user-attachments/assets/217ef8f9-e4d9-4f8f-81e0-32c208b4f427" />
 
 
 
